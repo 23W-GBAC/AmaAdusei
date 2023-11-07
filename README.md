@@ -24,3 +24,4 @@ So change as challenging and difficult as it may be, with time becomes a wonderf
 Change is the order of the day. Change is a movement from one point to another; be it progressive or retrogressive. Change happens a lot. it is mostly trival and without impact, like when you changed your style of dressing since you grew older. Change is mandatory, as we grow everyday, we change. Growth comes with change. It would be abnormal to see an adult having a fit in public to get a person's attention.
 
 ![IMG_0468](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/8396e6db-d092-4e45-a4b8-76cf8e122493)
+theme: minima
