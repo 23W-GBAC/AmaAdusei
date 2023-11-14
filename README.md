@@ -9,4 +9,5 @@ Change is the order of the day. Change is a movement from one point to another; 
 
 ![IMG_0468](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/8396e6db-d092-4e45-a4b8-76cf8e122493)
 
-theme: minima
+theme: jekyll-theme-tactile
+
