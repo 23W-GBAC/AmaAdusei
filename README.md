@@ -9,5 +9,7 @@ Change is the order of the day. Change is a movement from one point to another; 
 ![IMG_0468](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/8396e6db-d092-4e45-a4b8-76cf8e122493)
 ![IMG_0755](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/7d4be84c-fd6c-43f2-a0bc-27cbbcc27385)
 I took these pictures in the beautiful land of Pfarrkirchen during the fall. I know you would be wondering what these trees have got to do with "Change". Watch me explain this and my inspiration in the video below.
+![Watch the Video](IMG_1133.MP4)
+
 theme: jekyll-theme-tactile
 
