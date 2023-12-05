@@ -10,5 +10,5 @@ Change is the order of the day. Change is a movement from one point to another; 
 I took these pictures in the beautiful land of Pfarrkirchen during the fall. I know you would be wondering what these trees have got to do with "Change". (See how one whole tree is without a single leaf) Watch me explain this and my inspiration in the video below.
  ![Watch the Video](IMG_1133.MP4) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LeoLWuOSGEU?si=UwtrsqX-9ghwUsPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-theme: jekyll-theme-tactile
+
 
