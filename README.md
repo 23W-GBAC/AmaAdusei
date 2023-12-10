@@ -35,4 +35,5 @@ If you made it this far, thank you for reading.❤️
 
 # GLOSSARY
 All pictures, aside the ones I shot personally were copied from the google search engine results. If you want to know how this bloging experince with github went for me, check my wiki.☺️
+https://github.com/23W-GBAC/AmaAdusei.wiki.git
 
