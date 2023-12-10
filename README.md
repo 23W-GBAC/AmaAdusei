@@ -34,6 +34,14 @@ Every new day is an opportunity, so don't look back, don't be gloomy, put on a s
 If you made it this far, thank you for reading.❤️
 
 # GLOSSARY
+![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/fe6bc4cc-d463-48cc-9a04-880d49866748) ![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/e9edff5e-a0e3-4123-867d-b8452e170145) ![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/9cba4cfd-e2a2-46f6-9584-8df55a966615) ![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/deb8d959-7677-4b2b-b3a6-c352b326b133) ![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/53f05d51-f2e7-491e-a762-637f37144d68) ![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/2ec0b579-bba2-4b72-b740-a307018108a9) ![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/ecdef192-c1e1-4b3f-b34d-c18b25f15a51)
+
+
+
+
+
+
+
 All pictures, aside the ones I shot personally were copied from the google search engine results. If you want to know how this bloging experince with github went for me, check my wiki.☺️
 
             https://github.com/23W-GBAC/AmaAdusei.wiki.git
