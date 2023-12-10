@@ -33,5 +33,6 @@ So yes, do not look at what you've lost. Do not look at what you do not have. Th
 Every new day is an opportunity, so don't look back, don't be gloomy, put on a smile and do what you can do to give yourself a fulfilled life. Change when not accepted and dealt with has the tendency of affecting your mental health. You can become depressed, anxious and what not.  Deal with change and the pain it comes with accordingly and live life. Live life to its best. Never give up, don't back down. Life is a bumpy road with uncertainties and drama. Pass through life and do not let life pass through you. THE END.
 If you made it this far, thank you for reading.❤️
 
-
+# GLOSSARY
+All pictures, aside the ones I shot personally were copied from the google search engine results. If you want to know how this bloging experince with github went for me, check my wiki.☺️
 
