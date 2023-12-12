@@ -5,3 +5,4 @@ def test_addition():
 
 def test_subtraction():
     assert 3 - 1 == 2
+pytest _test.py
