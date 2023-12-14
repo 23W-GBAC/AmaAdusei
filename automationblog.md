@@ -18,15 +18,12 @@ The ‘json’ library is for handling JSON data.
 Then I used the ‘def’ Python function to define the string ‘get_random_quote’
 (I included the block comments in the code so I don’t forget the meaning of the code myself. 
 The line 6 of the code is to get random quotes from Zen Quotes API. I achieved this my putting the URL of Zen Quotes API into a variable (‘response’).
-
-
-
-
-
-
-
-
-
-
+The remaining of the code checks if the request was successful and if yes returns with the quote and the author if unsuccessful, it would return,"Failed to fetch a code, try again later.
+After writing this short script, I run it on my VS code to see if it worked before i uploded it to my repository
 
 ![IMG_2041](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/522e1bb9-fa61-4f7f-bcb8-66aa983b67a8)
+HIP HIP HURRA🥳
+
+# SETTING UP THE WORKFLOW
+(with this particular task, I failed two times before it worked the third time when i was just clicking things on GitHub😂)
+To set up the workflow for the script on GitHub, I went to the 'Actions'
