@@ -2,7 +2,7 @@ name: Run Quote Generator
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Run every day at midnight
+    - cron: '*/5 * * * *'  # Run every 5 minutes
 
 jobs:
   run-script:
