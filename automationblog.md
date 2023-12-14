@@ -8,3 +8,4 @@ To automate a daily process of updating inspirational quotes. I am very new to a
 Now, I had an idea of what to do but I did not know how. (I am still a beginner)
 But I knew I needed an API and a Python Script. Initially, I wanted to use the knowledge from the sciences class to create my own API but I kept messing up and getting stuck till ChatGPT made me aware that I could access an API called,"ZEN QUOTES API" (Phew😅)
 # Process
+First, let me expalin my Python Script. I have to 
