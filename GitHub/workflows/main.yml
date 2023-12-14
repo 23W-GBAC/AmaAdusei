@@ -1,0 +1,16 @@
+name: Run Quote Generator
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run every day at midnight
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Run Script
+      run: python quote_generator.py
