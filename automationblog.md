@@ -26,4 +26,4 @@ HIP HIP HURRA🥳
 
 # SETTING UP THE WORKFLOW
 (with this particular task, I failed two times before it worked the third time when i was just clicking things on GitHub😂)
-To set up the workflow for the script on GitHub, I went to the 'Actions'
+To set up the workflow for the script on GitHub, I went to the 'Actions' which led to to my workflows then i went to
