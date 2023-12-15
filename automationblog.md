@@ -33,7 +33,15 @@ I then put in a code in the file which would run my Python quote_generator.py sc
 TADAAAA😭😹
 
 ![IMG_2043](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/463cf264-5224-4c34-9659-134d3fd06425)
-(SIRI, PLAY ME,'IT'S A GOOD DAY TINEE NE😭😹)
+(SIRI, PLAY ME,'IT'S A GOOD DAY TINEE NE'😭😹)
 
-
+# COMMENTS AND OVERALL IMPRESSION 
+I shed a lot of tears and had a lot of migranes during this process.
+Three times I caught myself nearly  saying,"Scheiße"
+To even decide on the automation project was tough.
+After I knew what to do, the problem was not the code but the executing of the code.
+Before, I had no idea of what I was doing and I made so many errors.
+I even created a workflow file without having a corresponding Python Script.😹
+In some months to come after gaining more insight, I look forward to making advancements.
+I am open to any advice and adjustments. Thank you.
 
