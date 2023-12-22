@@ -19,6 +19,15 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          - name: Update README
+  run: |
+    git config --local user.email "action@github.com"
+    git config --local user.name "GitHub Action"
+    git remote set-url origin "https://username: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@github.com/23W-GBAC/AmaAdusei.git"
+    git add quote.txt
+    git commit -m "Update random quote [skip ci]"
+    git push
+
           git add quote.txt
           git commit -m "Update random quote [skip ci]"
           git push
