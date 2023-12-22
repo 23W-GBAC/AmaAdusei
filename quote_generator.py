@@ -20,10 +20,3 @@ def get_random_quote():
 
 # Print a random quote
 print(get_random_quote())
-
-# Your code to fetch a random quote from the API
-quote = "This is a random quote."
-
-# Write the quote to a file
-with open("quote.txt", "w") as file:
-    file.write(quote)
