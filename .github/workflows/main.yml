@@ -5,12 +5,21 @@ on:
     - cron: '*/5 * * * *'  # Run every 5 minutes
 
 jobs:
-  run-script:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Run Script
-      run: python quote_generator.py
+      - name: Run Python Script
+        run: python quote_generator.py
+
+      - name: Update README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update random quote [skip ci]"
+          git push
+

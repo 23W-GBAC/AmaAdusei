@@ -1,6 +1,10 @@
 # Dealing with change
 Hi, my name is Ama and I would be writing a blog on, 'Dealing with Change' based on personal experiences.
 I hope you are inspired, follow my blog!
+## Random Quote
+
+<!-- The quote will appear here dynamically -->
+
 ## What is Change?
 I collected the views of people on 'Change.'
 Change is inevitable. Change is uncomfortable. Change is painful.Change can be scary. Change is ugly but change is beautiful...
