@@ -1,5 +1,5 @@
 title: Dealing With Change
 description: Have you ever feared change? This blog will show you  why one should not fear change.
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme:pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
