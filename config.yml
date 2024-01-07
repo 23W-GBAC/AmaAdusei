@@ -1,3 +1,5 @@
-remote_theme: "jekyll/minima@v2.5.1"
+title: Dealing With Change
+description: Have you ever feared change? This blog will show you  why one should not fear change.
+remote_theme: 
 plugins:
-  - jekyll-theme-cayman
+- jekyll-remote-theme # add this line to the plugins list if you already have one
