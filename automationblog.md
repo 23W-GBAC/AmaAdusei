@@ -8,7 +8,7 @@ To automate a consistent  process of updating inspirational quotes. I am very ne
 Now, I had an idea of what to do but I did not know how. (I am still a beginner)
 But I knew I needed an API and a Python Script. Initially, I wanted to use the knowledge from the sciences class to create my own API but I kept messing up and getting stuck till ChatGPT made me aware that I could access an API called,"ZEN QUOTES API" (Phew😅)
 # Process
-First, let me explain my Python Script. I have to acknowledge the fact that I couldn’t have written the script on my own, I used resources like ChatGPT, read two virtual books, ‘Automate THE BORING STUFF WITH PYTHON’ and ‘THINK PYTHON 2’. I even applied some of the knowledge I got from reading an article on scraping webpages with ‘Beautiful Soup’. 
+First, let me explain my Python Script. I have to acknowledge the fact that I couldn’t have written the script on my own, I used resources like ChatGPT, read two virtual books, ‘AUTOMATE THE BORING STUFF WITH PYTHON’ and ‘THINK PYTHON 2’. I even applied some of the knowledge I got from reading an article on scraping webpages with ‘Beautiful Soup’. 
 You will find the code amongst my files here on GitHub as,'quote_generator.py'
 Step one- So with my script, like I mentioned before, I created it with Virtual Code Studio(VS code). I first created a Python file with the extension (.py) and opened it. 
 Step two- I imported two python libraries.
@@ -26,7 +26,7 @@ After writing this short script, I run it on my VS code to see if it worked befo
 HIP HIP HURRA🥳
 # SETTING UP THE WORKFLOW
 (with this particular task, I failed two times before it worked the third time when i was just clicking things on GitHub😂)
-To set up the workflow for the script on GitHub, I went to the 'Actions' which led me to my workflows then I went to 'New workflow' and went on to set up a workflow for myself.  This a tion created a '.github workflow' folder with a 'yml' file embedded in it.
+To set up the workflow for the script on GitHub, I went to the 'Actions' which led me to my workflows then I went to 'New workflow' and went on to set up a workflow for myself.  This action created a '.github workflow' folder with a 'yml' file embedded in it. Again, this workflow file is visible on my GitHub repo as 
 I then put in a code in the file which would run my Python quote_generator.py script every five minutes. After making the commit, I had to wait for the moment of truth. (It was so scary😂)
 
 ![IMG_2042](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/10602e68-7151-418c-9ef3-9136fc7f6830)
