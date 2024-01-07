@@ -33,6 +33,8 @@ I then put in a code in the file which would run my Python quote_generator.py sc
 TADAAAA😭😹
 
 ![IMG_2043](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/463cf264-5224-4c34-9659-134d3fd06425)
+I am definately going into the ocean.🤩
+
 (SIRI, PLAY ME,'IT'S A GOOD DAY TINEE NE'😭😹)
 
 # COMMENTS AND OVERALL IMPRESSION 
