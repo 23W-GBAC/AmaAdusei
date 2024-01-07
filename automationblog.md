@@ -26,7 +26,7 @@ After writing this short script, I run it on my VS code to see if it worked befo
 HIP HIP HURRA🥳
 # SETTING UP THE WORKFLOW
 (with this particular task, I failed two times before it worked the third time when i was just clicking things on GitHub😂)
-To set up the workflow for the script on GitHub, I went to the 'Actions' which led me to my workflows then I went to 'New workflow' and went on to set up a workflow for myself.  This action created a '.github workflow' folder with a 'yml' file embedded in it. Again, this workflow file is visible on my GitHub repo as 
+To set up the workflow for the script on GitHub, I went to the 'Actions' which led me to my workflows then I went to 'New workflow' and went on to set up a workflow for myself.  This action created a '.github workflow' folder with a 'yml' file embedded in it. Again, this workflow file is visible on my GitHub repo as, '.github/workflows.'
 I then put in a code in the file which would run my Python quote_generator.py script every five minutes. After making the commit, I had to wait for the moment of truth. (It was so scary😂)
 
 ![IMG_2042](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/10602e68-7151-418c-9ef3-9136fc7f6830)
@@ -37,13 +37,11 @@ TADAAAA😭😹
 
 # COMMENTS AND OVERALL IMPRESSION 
 I shed a lot of tears and had a lot of migranes during this process.
-Three times I caught myself nearly  saying,"Scheiße"
-To even decide on the automation project was tough.
-After I knew what to do, the problem was not the code but the execution of the code.
-Before, I had no idea of what I was doing and I made so many errors.
-I even created a workflow file without having a corresponding Python Script.😹
-I also made some radical decisions as well as silly ones. I created so many branches and some forks(which I deleted after) to test every step I made towards the automation project. This helped me to keep the mess from my main branch until I was sure of the progress. Once, I did feel lazy to work on a branch and I messed upn my main branch (I did cry) but before that i had previously copied all the files on my Git twice on my local machine and my phone also😹 so I deleted everything and copied it back.
+
+Three times I caught myself nearly  saying,"Scheiße." To even decide on the automation project was tough.
+After I knew what to do, the problem was not the code but the execution of the code. Before, I had no idea of what I was doing and I made so many errors. I even created a workflow file without having a corresponding Python Script.😹
+I also made some radical decisions as well as silly ones. I created so many branches and some forks(which I deleted after) to test every step I made towards the automation project. This helped me to keep the mess from my main branch until I was sure of the progress. Once, I did feel lazy to work on a branch and I messed upn my main branch (I did cry) but before that i had previously copied all the files on my GitHub repo twice on my local machine and my phone also😹 so I deleted everything and copied it back.
 I also sought advice from 'Stack Overflow' and 'Python Reddit' everytime I got an error with my workflow and they were indeed helpful.
 In some months to come after gaining more insight, I look forward to making advancements.
-I am open to any advice and adjustments. I am looking for ways to make the automation even better and I can not do that without your honest view, comments and contributions. Thank you.
+I am open to any advice and adjustments. I am looking for ways to make the automation even better and I can not do that without your honest views, comments and contributions. Thank you.
 
