@@ -8,7 +8,7 @@ For my automation project, I decided to use a simple python script with Virtual 
 
 Here is a code snippet using GitHub Gists:
 
-<script src="https://gist.github.com/AmaAdusei/e741f7688f75a86329cc996e54b4f1b8.js"></script>
+<script src="https://gist.github.com/AmaAdusei/e741f7688f75a86329cc996e54b4f1b8.js"></script> 
 
 # AIM
 To automate a consistent  process of updating inspirational quotes. I am very new to all of this so I did not know how to acheieve what I wanted but during coding class for  foundation of sciences, we did something called "API". I had no idea what that was so I asked my classmate what it was and I got a basic idea. So I thought, why not get a quote API and put it in a Python Script?
