@@ -4,12 +4,6 @@ AUTOMATING SCHEDULED MOTIVATIONAL AND INSPIRATIONAL QUOTES FOR MENTAL HEALTH.
 I wrote a blog based on dealing with change as change can be hard on the mental health of an individual. So I thought it wise to automate a process whereby inspirational and motivational quotes would be generated consistently every 5 minutes to inspire the readers not to give up. This would be tiresome for me to do on a daily. I might even forget on somedays, hence the automation. 
 For my automation project, I decided to use a simple python script with Virtual Code Studio and later uploaded into my github files.
 
-## Code Snippet 
-
-Here is a code snippet using GitHub Gists:
-
-<script src="https://gist.github.com/AmaAdusei/e741f7688f75a86329cc996e54b4f1b8.js"></script> 
-
 # AIM
 To automate a consistent  process of updating inspirational quotes. I am very new to all of this so I did not know how to acheieve what I wanted but during coding class for  foundation of sciences, we did something called "API". I had no idea what that was so I asked my classmate what it was and I got a basic idea. So I thought, why not get a quote API and put it in a Python Script?
 Now, I had an idea of what to do but I did not know how. (I am still a beginner)
