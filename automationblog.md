@@ -23,6 +23,32 @@ The line 6 of the code, 'response = requests.get("https://zenquotes.io/api/rando
 The remaining of the code checks if the request was successful and if yes returns with the quote and the author if unsuccessful, it would return,"Failed to fetch a code, try again later."
 After writing this short script, I run it on my VS code to see if it worked before i uploded it to my repository
 
+```
+import requests
+import json
+
+def get_random_quote():
+    # Fetch a random quote from the Zen Quotes API
+    response = requests.get("https://zenquotes.io/api/random")
+
+    # Check if the request was successful (status code 200)
+    if response.status_code == 200:
+        # Parse the JSON response
+        quote_data = json.loads(response.text)
+
+        # Extract and return the quote and author
+        quote = quote_data[0]['q']
+        author = quote_data[0]['a']
+
+        return f'"{quote}"\n- {author}'
+    else:
+        return "Failed to fetch a quote. Try again later."
+
+# Print a random quote
+print(get_random_quote())
+
+```
+
 ![IMG_2041](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/522e1bb9-fa61-4f7f-bcb8-66aa983b67a8)
 HIP HIP HURRA🥳
 # SETTING UP THE WORKFLOW
