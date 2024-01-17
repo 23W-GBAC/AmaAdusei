@@ -21,4 +21,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add motivational_quote.txt
           git commit -m "Update motivational quote [skip ci]"
-          git pus
+          git push
