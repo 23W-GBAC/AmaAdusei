@@ -14,3 +14,11 @@ jobs:
 
     - name: Run Script
       run: python quote_generator.py
+      
+     - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add motivational_quote.txt
+          git commit -m "Update motivational quote [skip ci]"
+          git push
