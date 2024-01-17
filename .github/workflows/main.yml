@@ -5,7 +5,7 @@ on:
     - cron: '*/5 * * * *'  # Run every 5 minutes
 
 jobs:
-  run-script:
+    run-script:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,3 +22,8 @@ jobs:
           git add motivational_quote.txt
           git commit -m "Update motivational quote [skip ci]"
           git push
+
+
+
+
+
