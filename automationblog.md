@@ -30,6 +30,7 @@ Stay tuned as I dive deeper into the intricacies of automation and share the pro
 First, let me explain my Python Script. I have to acknowledge the fact that I couldn’t have written the script on my own, I used resources like ChatGPT, read two virtual books, ‘AUTOMATE THE BORING STUFF WITH PYTHON’ and ‘THINK PYTHON 2’. I even applied some of the knowledge I got from reading an article on scraping webpages with ‘Beautiful Soup’. 
 You will find the code amongst my files here on GitHub as,'quote_generator.py'
 
+# PYTHON SCRIPT CREATION:
 Step one- So with my script, like I mentioned before, I created it with Virtual Code Studio(VS code). I first created a Python file with the extension (.py) and opened it. 
 
 Step two- I imported two python libraries.
