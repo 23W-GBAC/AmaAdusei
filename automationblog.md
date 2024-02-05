@@ -69,8 +69,8 @@ def get_random_quote():
 print(get_random_quote())
 
 ```
+![IMG_2041](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/bb1782bf-20da-4820-886d-87ab10e1a2a4)
 
-![IMG_2041](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/522e1bb9-fa61-4f7f-bcb8-66aa983b67a8)
 HIP HIP HURRA🥳
 # WEEK THREE; SETTING UP THE WORKFLOW
 (with this particular task, I failed two times before it worked the third time when i was just clicking things on GitHub😂)
