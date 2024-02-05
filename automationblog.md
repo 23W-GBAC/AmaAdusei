@@ -25,7 +25,8 @@ Overall, the survey outcomes served as a compelling validation of the importance
 Stay tuned as I dive deeper into the intricacies of automation and share the progress of my journey in the weeks to come.
 
 
-# Process
+# WEEK TWO; THE AUTOMATION PROCESS
+
 First, let me explain my Python Script. I have to acknowledge the fact that I couldn’t have written the script on my own, I used resources like ChatGPT, read two virtual books, ‘AUTOMATE THE BORING STUFF WITH PYTHON’ and ‘THINK PYTHON 2’. I even applied some of the knowledge I got from reading an article on scraping webpages with ‘Beautiful Soup’. 
 You will find the code amongst my files here on GitHub as,'quote_generator.py'
 
@@ -70,7 +71,7 @@ print(get_random_quote())
 
 ![IMG_2041](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/522e1bb9-fa61-4f7f-bcb8-66aa983b67a8)
 HIP HIP HURRA🥳
-# SETTING UP THE WORKFLOW
+# WEEK THREE; SETTING UP THE WORKFLOW
 (with this particular task, I failed two times before it worked the third time when i was just clicking things on GitHub😂)
 To set up the workflow for the script on GitHub, I went to the 'Actions' which led me to my workflows then I went to 'New workflow' and went on to set up a workflow for myself.  This action created a '.github workflow' folder with a 'yml' file embedded in it. Again, this workflow file is visible on my GitHub repo as, '.github/workflows.'
 I then put in a code in the file which would run my Python quote_generator.py script every five minutes. After making the commit, I had to wait for the moment of truth. (It was so scary😂.)
@@ -83,7 +84,7 @@ I am definately going into the ocean.🤩
 
 (SIRI, PLAY ME,'IT'S A GOOD DAY TINEE NE'😭😹)
 
-# COMMENTS AND OVERALL IMPRESSION 
+# WEEK FOUR; COMMENTS AND OVERALL IMPRESSION 
 I shed a lot of tears and had a lot of migranes during this process.
 
 Three times I caught myself nearly  saying,"Scheiße." To even decide on the automation project was tough.
