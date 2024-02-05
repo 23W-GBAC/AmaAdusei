@@ -1,7 +1,8 @@
 # AUTOMATION PROJECT BLOG
+# WEEK ONE
 AUTOMATING SCHEDULED MOTIVATIONAL AND INSPIRATIONAL QUOTES FOR MENTAL HEALTH.
 
-I wrote a blog based on dealing with change as change can be hard on the mental health of an individual. So I thought it wise to automate a process whereby inspirational and motivational quotes would be generated consistently every 5 minutes to inspire the readers not to give up. This would be tiresome for me to do on a daily. I might even forget on somedays, hence the automation. 
+I wrote a blog based on dealing with change as change can be hard on the mental health of an individual. So I thought it wise to automate a process whereby inspirational and motivational quotes would be generated consistently every 5 minutes to inspire the readers not to give up. In the process of change which is mostly overwhelming to the individuals, it would be nice to be reminded consistently that evrything would pan out. This would help reduce stress and strain on the mental health of individuals. Finding and posting the motivational quotes manually would be tiresome for me to do on a daily. I might even forget on somedays, hence the automation. 
 For my automation project, I decided to use a simple python script with Virtual Code Studio and later uploaded into my github files.
 
 # AIM
