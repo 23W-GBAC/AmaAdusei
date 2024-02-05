@@ -95,3 +95,6 @@ I also sought advice from 'Stack Overflow' and 'Python Reddit' everytime I got a
 In some months to come after gaining more insight, I look forward to making advancements.
 I am open to any advice and adjustments. I am looking for ways to make the automation even better and I can not do that without your honest views, comments and contributions. Thank you.
 
+I recorded this whole process in a span of four weeks but i decided to create four different files for each week. Below are the links for the demarcations.
+
+[Link to File 1]()
