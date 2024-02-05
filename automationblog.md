@@ -1,14 +1,20 @@
 # AUTOMATION PROJECT BLOG
-# WEEK ONE
-AUTOMATING SCHEDULED MOTIVATIONAL AND INSPIRATIONAL QUOTES FOR MENTAL HEALTH.
 
-I wrote a blog based on dealing with change as change can be hard on the mental health of an individual. So I thought it wise to automate a process whereby inspirational and motivational quotes would be generated consistently every 5 minutes to inspire the readers not to give up. In the process of change which is mostly overwhelming to the individuals, it would be nice to be reminded consistently that evrything would pan out. This would help reduce stress and strain on the mental health of individuals. Finding and posting the motivational quotes manually would be tiresome for me to do on a daily. I might even forget on somedays, hence the automation. 
-For my automation project, I decided to use a simple python script with Virtual Code Studio and later uploaded into my github files.
+## WEEK ONE: Automating Scheduled Motivational and Inspirational Quotes for Mental Health
 
-# AIM
-To automate a consistent  process of updating inspirational quotes. I am very new to all of this so I did not know how to acheieve what I wanted but during coding class for  foundation of sciences, we did something called "API". I had no idea what that was so I asked my classmate what it was and I got a basic idea. So I thought, why not get a quote API and put it in a Python Script?
-Now, I had an idea of what to do but I did not know how. (I am still a beginner)
-But I knew I needed an API and a Python Script. Initially, I wanted to use the knowledge from the sciences class to create my own API but I kept messing up and getting stuck till ChatGPT made me aware that I could access an API called,"ZEN QUOTES API" (Phew😅)
+In today's fast-paced world, dealing with change can be incredibly challenging, often taking a toll on our mental health. As someone who deeply cares about the well-being of others, I've been reflecting on ways to offer consistent support and inspiration to those navigating through life's uncertainties. Thus, I embarked on a journey to automate a process that delivers motivational and inspirational quotes regularly to uplift spirits and ease the strain on mental health.
+
+Change is inevitable, and it's during these times that we need reminders to stay resilient, to keep pushing forward, and to believe that everything will eventually fall into place. However, manually sourcing and posting motivational quotes daily can be both cumbersome and prone to lapses, especially amidst the hustle and bustle of everyday life. Therefore, automation seemed like the perfect solution to ensure a steady stream of encouragement for those who may need it the most.
+
+My goal with this automation project is to create a seamless process for updating inspirational quotes at regular intervals. While I'm relatively new to the world of coding and automation, I was introduced to the concept of APIs (Application Programming Interfaces) during a foundational science class. Despite my initial confusion, I recognized their potential for accessing external data and integrating it into my projects.
+
+Initially, I toyed with the idea of creating my own API, drawing from the knowledge gained in class. However, my attempts were met with frustration and dead ends. It was only through the guidance of resources like ChatGPT that I discovered the Zen Quotes API, a treasure trove of wisdom waiting to be tapped into.
+
+Armed with newfound knowledge and a renewed sense of determination, I set out to build a simple Python script using Visual Studio Code. By leveraging the Zen Quotes API, I aim to automate the process of fetching and posting motivational quotes at regular intervals, providing a steady stream of encouragement for those in need.
+
+Stay tuned as I dive deeper into the intricacies of automation and share the progress of my journey in the weeks to come.
+
+
 # Process
 First, let me explain my Python Script. I have to acknowledge the fact that I couldn’t have written the script on my own, I used resources like ChatGPT, read two virtual books, ‘AUTOMATE THE BORING STUFF WITH PYTHON’ and ‘THINK PYTHON 2’. I even applied some of the knowledge I got from reading an article on scraping webpages with ‘Beautiful Soup’. 
 You will find the code amongst my files here on GitHub as,'quote_generator.py'
