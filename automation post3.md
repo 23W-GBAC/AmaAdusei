@@ -1,4 +1,4 @@
-# WEEK THREE; SETTING UP THE WORKFLOW
+# WEEK THREE (4.01.2024); SETTING UP THE WORKFLOW
 Embarking on the journey to automate my inspirational quotes was not without its challenges. In fact, I encountered failure not once, but twice before finally achieving success on the third attempt. The process, marked by trial and error, taught me invaluable lessons in resilience, determination, and the power of perseverance.
 
 With each failed attempt came an opportunity to learn and adapt. As I navigated through the labyrinth of GitHub's interface, I found myself confronted with a myriad of options and configurations, each seemingly more daunting than the last. Despite my initial trepidation, I resolved to conquer the challenge head-on, armed with little more than determination and a willingness to learn.
