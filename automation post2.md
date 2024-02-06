@@ -1,4 +1,4 @@
-# WEEK TWO (21.12.2023); THE AUTOMATION PROCESS
+# WEEK TWO (28.12.2023): THE AUTOMATION PROCESS
 Exploring potential solutions and embarking on iterative attempts to develop a viable solution are integral steps in any project. In the context of automating the delivery of motivational quotes, several approaches and attempts may have been considered. Here are some possible solutions and errand attempts that could have been pursued:
 
 1. Manual Posting:
