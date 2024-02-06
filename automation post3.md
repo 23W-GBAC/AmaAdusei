@@ -28,7 +28,7 @@ And so, I march onward, emboldened by the knowledge that no challenge is insurmo
 TADAAAA😭😹
 
 ![IMG_2043](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/463cf264-5224-4c34-9659-134d3fd06425)
-I am definately going into the ocean.🤩
+I am definitely going into the ocean.🤩
 
 (SIRI, PLAY ME,'IT'S A GOOD DAY TINEE NE'😭😹)
 Final Solution:
@@ -49,3 +49,30 @@ Technical Complexity: The integration of Python scripts with GitHub workflows re
 Dependency on External APIs: The reliance on external APIs, such as the Zen Quotes API, introduces a degree of vulnerability to service disruptions or changes in API functionality.
 Maintenance and Updates: Continuous monitoring and maintenance are essential to ensure the smooth operation of the automation project, including addressing potential issues and updating dependencies.
 In conclusion, while the automation project offers numerous advantages in terms of efficiency, consistency, and scalability, it is not without its challenges and considerations. By carefully weighing the potential advantages and disadvantages, and implementing robust maintenance and monitoring practices, the automation project stands poised to deliver lasting value and impact to users and stakeholders alike.
+##### EXPLAINING MY WORKFLOW.
+
+```
+name: Run Quote Generator
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Run every 5 minutes
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Run Script
+      run: python quote_generator.py
+      
+   ```
+
+
+```
+- cron: '*/5 * * * *'  # Run every 5 minutes
+```
+This line is what basically runs my script every 5 minutes
