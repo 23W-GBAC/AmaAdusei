@@ -37,31 +37,39 @@ Exploring potential solutions and embarking on iterative attempts to develop a v
 
 Initial Attempt: Manually curating and posting motivational quotes at regular intervals.
 Limitations: Time-consuming, prone to inconsistency, and lacks scalability.
+
 2. Third-Party Tools:
 
 Attempt: Exploring third-party tools or platforms designed for scheduling and managing social media content.
 Limitations: Limited customization, dependency on external services, and potential cost implications.
+
 3. Custom Scripting:
 
 Attempt: Developing a custom Python script to fetch and post motivational quotes from a predefined list.
 Limitations: Requires programming knowledge, scalability challenges, and potential reliability issues.
+
 4. API Integration:
 
 Attempt: Integrating with an external API that provides a curated collection of motivational quotes.
 Limitations: Dependency on external API availability, potential rate limits, and data reliability.
+
 5. GitHub Actions:
 
 Attempt: Leveraging GitHub Actions to automate the process of fetching and posting motivational quotes.
 Limitations: Learning curve associated with GitHub Actions, potential configuration complexities, and troubleshooting challenges.
+
 6. Community Support:
 
 Attempt: Seeking guidance and support from online communities, forums, or developer networks.
 Limitations: Reliance on external expertise, varying quality of advice, and potential delays in receiving assistance.
+
 7. Continuous Iteration:
 
 Attempt: Adopting an iterative approach to development, refining the solution based on feedback and testing.
 Limitations: Time-consuming, potential setbacks, and the need for ongoing maintenance and optimization.
+
 Each attempt and solution explored may have offered unique insights and learnings, contributing to the eventual development of a robust automation solution. Through perseverance, experimentation, and a willingness to adapt, the process of refining and evolving the solution ultimately leads to the creation of a successful automation project.
+
 First, let me explain my Python Script. I have to acknowledge the fact that I couldn’t have written the script on my own, I used resources like ChatGPT, read two virtual books, ‘AUTOMATE THE BORING STUFF WITH PYTHON’ and ‘THINK PYTHON 2’. I even applied some of the knowledge I got from reading an article on scraping webpages with ‘Beautiful Soup’. 
 You will find the code amongst my files here on GitHub as,'quote_generator.py'
 
@@ -140,6 +148,7 @@ TADAAAA😭😹
 I am definately going into the ocean.🤩
 
 (SIRI, PLAY ME,'IT'S A GOOD DAY TINEE NE'😭😹)
+
 Final Solution:
 
 The automation project embarked upon to schedule motivational and inspirational quotes has evolved into a transformative endeavor. After meticulous planning, experimentation, and implementation, the final solution encapsulates a Python script integrated with GitHub workflows to deliver motivational quotes at regular intervals.
@@ -157,7 +166,36 @@ Reflection on Potential Disadvantages:
 Technical Complexity: The integration of Python scripts with GitHub workflows requires a certain level of technical expertise, posing a barrier to entry for individuals with limited programming knowledge.
 Dependency on External APIs: The reliance on external APIs, such as the Zen Quotes API, introduces a degree of vulnerability to service disruptions or changes in API functionality.
 Maintenance and Updates: Continuous monitoring and maintenance are essential to ensure the smooth operation of the automation project, including addressing potential issues and updating dependencies.
+
 In conclusion, while the automation project offers numerous advantages in terms of efficiency, consistency, and scalability, it is not without its challenges and considerations. By carefully weighing the potential advantages and disadvantages, and implementing robust maintenance and monitoring practices, the automation project stands poised to deliver lasting value and impact to users and stakeholders alike.
+##### EXPLAINING MY WORKFLOW.
+
+```
+name: Run Quote Generator
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Run every 5 minutes
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Run Script
+      run: python quote_generator.py
+      
+   ```
+
+
+```
+- cron: '*/5 * * * *'  # Run every 5 minutes
+```
+This line is what basically runs my script every 5 minutes
+
 
 # WEEK FOUR: COMMENTS AND OVERALL IMPRESSION
 
