@@ -1,4 +1,4 @@
-# WEEK FOUR(13.01.2024): COMMENTS AND OVERALL IMPRESSION
+# WEEK FOUR(14.01.2024): COMMENTS AND OVERALL IMPRESSION
 
 Reflecting on the past four weeks, I find myself immersed in a whirlwind of emotions, challenges, and triumphs. The journey towards automating inspirational quotes has been nothing short of transformative, marked by tears, migraines, and moments of sheer frustration. Yet, amidst the chaos, I've discovered profound lessons and invaluable insights that have reshaped my understanding of coding, perseverance, and personal growth.
 
