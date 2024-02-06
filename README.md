@@ -42,6 +42,7 @@ Every new day is an opportunity, so don't look back, don't be gloomy, put on a s
 If you made it this far, thank you for reading.❤️
 
 ## [MY AUTOMATION](automationblog.md)
+I would like to be motivating you regularly with inspirational quotes and my automation does just that for me. If you want to read the results, you can check my GitHub actions
 
 
 # GLOSSARY
