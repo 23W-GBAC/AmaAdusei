@@ -17,6 +17,8 @@ Initially, I toyed with the idea of creating my own API, drawing from the knowle
 Armed with newfound knowledge and a renewed sense of determination, I set out to build a simple Python script using Visual Studio Code. By leveraging the Zen Quotes API, I aim to automate the process of fetching and posting motivational quotes at regular intervals, providing a steady stream of encouragement for those in need.
 
 After conducting an anonymous survey through a questionnaire, I found the results to be highly encouraging, reaffirming the necessity and potential impact of my automation project. The responses provided valuable insights into people's attitudes towards motivational quotes and their relevance in daily life.
+![Image 06 02 24 at 01 08](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/eb98f82b-3465-4e52-be0a-f8661529a349)
+
 
 The survey revealed a significant frequency of engagement with motivational quotes, with many participants indicating a regular habit of seeking out such content for inspiration and encouragement. Moreover, a majority expressed that motivational quotes have positively influenced their mood and mindset during challenging times, highlighting their perceived effectiveness in promoting well-being.
 
