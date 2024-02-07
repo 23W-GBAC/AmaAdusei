@@ -1,4 +1,8 @@
 # WEEK TWO (28.12.2023): THE AUTOMATION PROCESS
+Before deciding to go for the contents of my python script, Ifirst toyed with two main ideas. Below are the ideas and why it did mot work for me at all.
+1. Scraping web pages with Beautiful Soup - it was not going to serve the purpose I wanted
+2. Creating an AI BOT - this possible solution seemed very fitting as it could be interactive but thecosts for me far outweighed the costs from the benefits at the moment.
+
 Exploring potential solutions and embarking on iterative attempts to develop a viable solution are integral steps in any project. Regarding the automation of motivational quote delivery, various methods and endeavours have potentially been explored. Here are a few ideas for fixes and side projects that could have been undertaken:
 
 1. Manual Posting:
