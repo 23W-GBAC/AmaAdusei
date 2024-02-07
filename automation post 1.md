@@ -28,3 +28,4 @@ The survey revealed a significant frequency of engagement with motivational quot
 Overall, the survey outcomes served as a compelling validation of the importance of motivational quotes in people's lives and underscored the potential benefits of automating their delivery. Armed with this feedback, I am more determined than ever to continue with my automation project, confident in its ability to provide meaningful support and encouragement to individuals navigating through life's uncertainties.
 
 Stay tuned as I dive deeper into the intricacies of automation and share the progress of my journey in the weeks to come.
+
