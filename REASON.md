@@ -20,7 +20,11 @@ In the face of change, the temptation to dwell on the past can be overwhelming. 
 
 ---
 **Conlusion: Why I chose the topic,'Dealing with Change' and how it relates to me.**
+The realization of the profound impact of a season of change struck me deeply when my father fell seriously ill without warning. (He was later diagnosed with prostate cancer.) Witnessing his struggle, I understood that while the illness wrought physical changes, the broader challenge of adapting to change was exacting a heavy toll on his mental well-being. He withdrew into silence, a stark departure from his once vibrant self, and it pained me deeply to see him succumb to depression.
 
+In my own life, I faced significant upheaval when I left my home country last year to pursue studies in Germany. Despite believing I could navigate the transition smoothly, the reality proved far more challenging than anticipated. The familiarity of being away from home did little to ease the sense of displacement I experienced. Through these experiences as an international student and witnessing the struggles of those around me, I gleaned invaluable lessons about resilience and adaptation.
+
+Given my belief in using personal experiences as sources of inspiration, I felt compelled to share insights on navigating change, a topic often overlooked. Change, with its multifaceted implications, warrants discussion and support, and I aspire to offer motivation and solace to those grappling with its complexities.
 
 
 
