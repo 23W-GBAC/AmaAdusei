@@ -1,6 +1,7 @@
 # AUTOMATION PROJECT BLOG
 
 ## WEEK ONE (15.12.2023): Automating Scheduled Motivational and Inspirational Quotes for Mental Health
+- [ ] The problem of regularly finding and updating scheduled motivational quotes manually
 
 In today's fast-paced world, dealing with change can be incredibly challenging, often taking a toll on our mental health. As someone who deeply cares about the well-being of others, I've been reflecting on ways to offer consistent support and inspiration to those navigating through life's uncertainties. Thus, I embarked on a journey to automate a process that delivers motivational and inspirational quotes regularly to uplift spirits and ease the strain on mental health.
 
