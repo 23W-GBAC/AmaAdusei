@@ -1,5 +1,5 @@
 # WEEK TWO (28.12.2023): THE AUTOMATION PROCESS
-Exploring potential solutions and embarking on iterative attempts to develop a viable solution are integral steps in any project. In the context of automating the delivery of motivational quotes, several approaches and attempts may have been considered. Here are some possible solutions and errand attempts that could have been pursued:
+Exploring potential solutions and embarking on iterative attempts to develop a viable solution are integral steps in any project. Regarding the automation of motivational quote delivery, various methods and endeavours have potentially been explored. Here are a few ideas for fixes and side projects that could have been undertaken:
 
 1. Manual Posting:
 
@@ -13,7 +13,7 @@ Limitations: Limited customization, dependency on external services, and potenti
 
 3. Custom Scripting:
 
-Attempt: Developing a custom Python script to fetch and post motivational quotes from a predefined list.
+Attempt: Generating a unique Python script to retrieve and share motivational quotes from a specified list.
 Limitations: Requires programming knowledge, scalability challenges, and potential reliability issues.
 
 4. API Integration:
@@ -35,7 +35,7 @@ Limitations: Reliance on external expertise, varying quality of advice, and pote
 
 Attempt: Adopting an iterative approach to development, refining the solution based on feedback and testing.
 Limitations: Time-consuming, potential setbacks, and the need for ongoing maintenance and optimization.
-Each attempt and solution explored may have offered unique insights and learnings, contributing to the eventual development of a robust automation solution. Through perseverance, experimentation, and a willingness to adapt, the process of refining and evolving the solution ultimately leads to the creation of a successful automation project.
+Each attempt and solution explored may have offered unique insights and learning, contributing to the eventual development of a robust automation solution. A successful automation project is ultimately created through the process of refining and evolving the solution with persistence, experimentation, and a willingness to adapt.
 
 First, let me explain my Python Script. I have to acknowledge the fact that I couldn’t have written the script on my own, I used resources like ChatGPT, read two virtual books, ‘AUTOMATE THE BORING STUFF WITH PYTHON’ and ‘THINK PYTHON 2’. I even applied some of the knowledge I got from reading an article on scraping webpages with ‘Beautiful Soup’. 
 You will find the code amongst my files here on GitHub as,'quote_generator.py'
@@ -81,4 +81,4 @@ print(get_random_quote())
 ```
 ![IMG_2041](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/bb1782bf-20da-4820-886d-87ab10e1a2a4)
 
-HIP HIP HURRA🥳
+HIP HIP HURRAY🥳
