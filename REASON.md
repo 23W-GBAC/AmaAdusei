@@ -19,7 +19,8 @@ Change can feel like everything around us is shifting, much like how trees lose 
 In the face of change, the temptation to dwell on the past can be overwhelming. In this post, I explore the dangers of comparing our current circumstances to the familiarity of the past. Drawing from personal anecdotes and reflections, I emphasize the importance of embracing change with courage and resilience. By reframing our perspective and focusing on the opportunities that lie ahead, we empower ourselves to navigate life's uncertainties with grace and optimism.
 
 ---
-**Conlusion
+**Conlusion: Why I chose the topic,'Dealing with Change' and how it relates to me.**
+
 
 
 
