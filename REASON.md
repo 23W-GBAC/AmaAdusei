@@ -1,4 +1,5 @@
-**Topic: Dealing with Change**
+**Topic: [DEALING WITH CHANGE](README.md)**
+
 
 **Post 1: Introduction:**
 Change is an inevitable aspect of life that permeates every facet of our existence. It manifests in various forms, bringing with it a mixture of emotions, challenges, and opportunities. Through personal reflections and insights, I delve into the theme of 'Dealing with Change' to explore its profound impact on individuals and communities as the effects of change has the tendency of destroying one’s mental health. 
