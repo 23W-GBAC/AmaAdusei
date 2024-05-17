@@ -1,4 +1,5 @@
 # Dealing with change
+
 Hi, my name is Ama and I would be writing a blog on, 'Dealing with Change' based on personal experiences. 
 I've chosen to delve into the theme of 'Change' as I've come to recognize the profound impact it has had on both my life and the lives of those around me. Through the ebbs and flows of existence, we've traversed dramatic seasons of transformation that have reshaped our perspectives, priorities, and paths. Drawing from the tapestry of my own experiences, I am compelled to extend a hand of reassurance to anyone navigating similar waters.
 
@@ -10,6 +11,7 @@ In embracing the theme of 'Change,' I am compelled to navigate the depths of unc
 I hope you are inspired, follow my blog!
 
 ## What is Change?
+
 I collected the views of people on 'Change.'
 Change is inevitable. Change is uncomfortable. Change is painful.Change can be scary. Change is ugly but change is beautiful...
 Everyone seems to have the similar reactions towrds change.
@@ -21,6 +23,7 @@ I took these pictures in the beautiful land of Pfarrkirchen during the fall. I k
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LeoLWuOSGEU?si=UwtrsqX-9ghwUsPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 # In The Midst Of Change.
+
 So why did I post pictures of trees during the fall? You would realize that during the fall trees lose almost all, if not all their leaves. Yes, and they become bare and ugly and all their once beautiful leaves would just be brown, crusty munchy things on the floor and we would just be stepping on them as we walk and. That is a period of change because that is not the natural state of the tree at that moment. A tree has leaves and it has been known to have leaves. It knows it has leaves. Then there comes a period where all the leaves go down and they are bare and they are ugly. I don't know. I'm sure if trees were to talk, nothing would make sense to them, but you realise that the fall is just for a season. Other seasons will come and eventually their leaves will grow back again and they will be very beautiful again, serving their purpose again, be it should to give shade or to help the human respiratory process. But for the moment,that is during the fall, they lose everything. They lose all their leaves, but you don't see a tree breaking down. I wanted to use the trees during the fall, as a sort of encouragement that no condition is permanent, no matter what you are going through, it's a season. It has to happen. Fall has to come, the leaves have to fall, and new leaves eventually come, and they are beautiful once again. So change is a constant, yes, but it is for a period.
 Then you would ask,"what do I do in a process of change?, What do I do when there's a major change or a minor change going on?"
 The first step, as we've already established, is for you to accept that change is inevitable, that change has to occur, change would come, it doesn't need your permission. Now I want you to understand that change comes with pain. Be it a good change, be it a change you are anticipating, no matter what you are anticipating, it comes with change. I wanted to travel outside my home country so bad. I wanted to try new things. I wanted to have a fulfilled life and do a lot of things.
@@ -28,6 +31,7 @@ And I'm a Christian, so I would said through the help of God, I see those things
 ![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/4e401dce-91ab-46cb-a94b-96cc62da4726)
 
 # Do Not Look Back
+
   ![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/b74281b7-3207-4ae0-a972-9deb8a36b9be) ![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/a410ab1b-19c2-4d8f-8c09-9b9f95b7c607) ![image](https://github.com/23W-GBAC/AmaAdusei/assets/148862738/300b27f7-837f-4dc1-90b6-0372c0fbdd76)
 
 
